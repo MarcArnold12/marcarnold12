@@ -6,7 +6,7 @@
 * **Art Gallery:** [galleryink.art](galleryink.art)
 * **Social Media:**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/galleryink_art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white))](https://www.linkedin.com/in/krystian-bedkowski-a1ba82164/) [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/galleryinkart) [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@galleryink.art) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@galleryinkart)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/galleryink_art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/krystian-bedkowski-a1ba82164/) [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/galleryinkart) [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@galleryink.art) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@galleryinkart)
 
 ### My Skills:
 
