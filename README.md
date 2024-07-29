@@ -1,7 +1,37 @@
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/galleryink_art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krystian-bedkowski-a1ba82164) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/galleryinkart) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@galleryink.art) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/galleryink_art) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@galleryinkart) 
+##  ** Full-Stack Developer | Automation Enthusiast | Art Gallery Owner**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Hey there!** I'm [Your Name], a passionate developer with a love for building user-centric web experiences and automating workflows using a variety of tools. Whether it's crafting beautiful front-end interfaces or streamlining processes with automation scripts, I'm always excited to tackle new challenges. 
 
+In my free time, you can find me chasing after my furry companion (a majestic Samoyed!) and running my art gallery, [Gallery Ink](https://galleryink.art). 
 
+**What I Do:**
+
+* **  Full-Stack Development:** HTML, CSS, JavaScript, TypeScript, React, Liquid, Python, PHP, SQL
+* **  Automation Enthusiast:** ChatGPT, Make (Integromat), Airtable, Mailchimp
+* **  Art Gallery Owner:** Gallery Ink (check it out!)
+
+**Skills & Technologies:**
+
+*  Badge HTML [invalid URL removed]
+*  Badge CSS3 [invalid URL removed]
+*  Badge JavaScript [invalid URL removed]
+*  Badge TypeScript [invalid URL removed]
+*  Badge React [invalid URL removed]
+*  Badge Python [invalid URL removed]
+*  Badge PHP [invalid URL removed]
+*  Badge SQL [invalid URL removed]
+*  Badge ChatGPT [invalid URL removed]
+*  Badge Make [invalid URL removed]
+*  Badge Airtable [invalid URL removed]
+*  Badge Mailchimp [invalid URL removed]
+
+**Get in Touch:**
+
+*  Website [invalid URL removed] (work in progress!)
+* [ Instagram](https://instagram.com/galleryink_art)
+* [ LinkedIn](https://linkedin.com/in/krystian-bedkowski-a1ba82164)
+* [ Pinterest](https://pinterest.com/galleryinkart)
+* [ YouTube](https://youtube.com/@galleryinkart)
+* [⏱️ TikTok](https://tiktok.com/@galleryink.art)
+
+**This is just the beginning, stay tuned for more!**
