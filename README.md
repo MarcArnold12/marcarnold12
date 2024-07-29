@@ -1,37 +1,53 @@
-##  ** Full-Stack Developer | Automation Enthusiast | Art Gallery Owner**
+Connect with me:
+Website: bedkowsky.pl
+Art Gallery: galleryink.art
+Social Media:
+Instagram
+LinkedIn
+Pinterest
+TikTok
+YouTube
+My Skills:
+Programming Languages:
 
-**Hey there!** I'm [Your Name], a passionate developer with a love for building user-centric web experiences and automating workflows using a variety of tools. Whether it's crafting beautiful front-end interfaces or streamlining processes with automation scripts, I'm always excited to tackle new challenges. 
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Liquid
+Python
+PHP
+SQL
+Automation Tools:
 
-In my free time, you can find me chasing after my furry companion (a majestic Samoyed!) and running my art gallery, [Gallery Ink](https://galleryink.art). 
+ChatGPT
+Make (Integromat)
+Airtable
+Mailchimp
+Software:
 
-**What I Do:**
+Adobe Photoshop
+Adobe After Effects
+Adobe Illustrator
+Adobe XD
+Webflow
+Framer
+Operating Systems: Windows, Linux
+Cloud & Infrastructure:
 
-* **  Full-Stack Development:** HTML, CSS, JavaScript, TypeScript, React, Liquid, Python, PHP, SQL
-* **  Automation Enthusiast:** ChatGPT, Make (Integromat), Airtable, Mailchimp
-* **  Art Gallery Owner:** Gallery Ink (check it out!)
+Google Cloud
+Docker
+Kubernetes
+Azure
+Project Management & Collaboration:
 
-**Skills & Technologies:**
+Jira
+Jenkins
+Experience:
+I have experience in developing and optimizing e-commerce platforms, ensuring responsive design and seamless user interactions.  I've also honed my skills in:
 
-*  Badge HTML [invalid URL removed]
-*  Badge CSS3 [invalid URL removed]
-*  Badge JavaScript [invalid URL removed]
-*  Badge TypeScript [invalid URL removed]
-*  Badge React [invalid URL removed]
-*  Badge Python [invalid URL removed]
-*  Badge PHP [invalid URL removed]
-*  Badge SQL [invalid URL removed]
-*  Badge ChatGPT [invalid URL removed]
-*  Badge Make [invalid URL removed]
-*  Badge Airtable [invalid URL removed]
-*  Badge Mailchimp [invalid URL removed]
-
-**Get in Touch:**
-
-*  Website [invalid URL removed] (work in progress!)
-* [ Instagram](https://instagram.com/galleryink_art)
-* [ LinkedIn](https://linkedin.com/in/krystian-bedkowski-a1ba82164)
-* [ Pinterest](https://pinterest.com/galleryinkart)
-* [ YouTube](https://youtube.com/@galleryinkart)
-* [⏱️ TikTok](https://tiktok.com/@galleryink.art)
-
-**This is just the beginning, stay tuned for more!**
+Enhancing product visibility and sales performance through strategic management and marketing campaigns.
+Creating and deploying automation scripts to improve operational efficiency and user experience.
+Managing product listings from creation and implementation to moderation and optimization for increased visibility and sales.
+I'm always looking for new challenges and opportunities to learn and grow. Feel free to reach out if you'd like to collaborate on a project!
