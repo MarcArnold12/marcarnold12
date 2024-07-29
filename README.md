@@ -21,9 +21,9 @@
 * TypeScript
 * React
 * Liquid
-* Python
-* PHP
-* SQL
+* ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+* ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+* ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 **Automation Tools:**
 
