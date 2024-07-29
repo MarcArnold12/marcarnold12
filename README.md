@@ -1,6 +1,4 @@
-## Krystian Bedkowski - Full Stack Developer & Art Gallery Owner
 
-Hi there!  I'm Krystian, a full-stack developer with a passion for creating user-friendly e-commerce experiences and a proud owner of an art gallery with my furry companion, a Samoyed dog! 
 
 ### Connect with me:
 
