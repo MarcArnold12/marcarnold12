@@ -5,7 +5,7 @@
 * **Website:** [bedkowsky.pl](bedkowsky.pl)
 * **Art Gallery:** [galleryink.art](galleryink.art)
 * **Social Media:**
-    * [![Instagram](https://instagram.com/galleryink_art)](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+    * [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/galleryink_art)
     * [LinkedIn](https://linkedin.com/in/krystian-bedkowski-a1ba82164)
     * [Pinterest](https://pinterest.com/galleryinkart)
     * [TikTok](https://tiktok.com/@galleryink.art)
